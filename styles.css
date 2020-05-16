@@ -1,6 +1,9 @@
 body {
     background-image: url('images/background-image.jpg');
 }
+#nav-button {
+    background-color: white;
+}
 .jumbotron {
     background-color: rgba(128, 128, 128, 0.637);
     margin-right: 10px;

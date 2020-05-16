@@ -1,6 +1,9 @@
 body {
     background-image: url('images/background-image.jpg');
 }
+#nav-button {
+    background-color: white;
+}
 #carouselWrapper {
     position: relative;
     left:25%;
