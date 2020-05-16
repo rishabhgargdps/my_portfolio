@@ -1,0 +1,11 @@
+body {
+    background-image: url('images/background-image.jpg');
+}
+#carouselWrapper {
+    position: relative;
+    left:25%;
+    width: 700px;
+}
+#none {
+    padding-left: 70px;
+}
